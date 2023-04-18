@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: #3153CB;
+    background-color: #383D58;
     display: flex;
 
 }
@@ -9,7 +9,3 @@ body {
     color: white;
 }
 
-header {
-    background-color: #383D58;
-    color: white;
-}

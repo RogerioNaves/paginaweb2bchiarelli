@@ -1,0 +1,15 @@
+.cabecalho {
+    background-color: #3153CB;
+    display: flex;
+
+}
+
+body {
+    background-color: #383D58;
+    color: white;
+}
+
+header {
+    background-color: #383D58;
+    color: white;
+}
